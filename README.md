@@ -32,6 +32,3 @@ Actualmente, desempeño el rol de director en un proyecto de investigación y de
 - Inglés: Nivel intermedio-avanzado.
 
 ¡Gracias por visitar mi página web! Si deseas obtener más información o colaborar en algún proyecto, no dudes en contactarme.
-
-![Bosquejo termodinámico de una turbina que expande vapor de agua mientras pierde algo de calor por sus fronteras y es acompañado por un diagrama temperatura-entropía](https://github.com/hermmanhender/germanhenderson.github.io/assets/52546433/990fe761-a903-4181-836f-4713176509a8)
-
