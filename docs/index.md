@@ -1,3 +1,5 @@
+
+
 # Sobre mí
 
 ¡Hola! Soy Germán Henderson, un profesional con experiencia en Ciencia y Tecnología (CyT) especializado en desarrollo sustentable del hábitat humano. Mi enfoque principal ha sido el desarrollo de proyectos de I+D en el Grupo Cliope, abordando diversas temáticas y aplicando metodologías especializadas. También me he destacado en la divulgación científica a través de charlas en ferias, congresos y exposiciones, así como en la publicación de investigaciones en revistas especializadas.
