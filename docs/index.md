@@ -1,5 +1,34 @@
-# Germán Henderson
+# Sobre mí
 
-Hi everyone! I am currently working on my PhD thesis. Among the main interests for the development of my research are bioclimatic strategies in dwelling, the comfort of the inhabitants, energy storage and generation from Renewable Energy Sources. In addition, the use of artificial intelligence is a research interest that I will use to enable the development of an energy and comfort management model in dwelling.
+¡Hola! Soy Germán Henderson, un profesional con experiencia en Ciencia y Tecnología (CyT) especializado en desarrollo sustentable del hábitat humano. Mi enfoque principal ha sido el desarrollo de proyectos de I+D en el Grupo Cliope, abordando diversas temáticas y aplicando metodologías especializadas. También me he destacado en la divulgación científica a través de charlas en ferias, congresos y exposiciones, así como en la publicación de investigaciones en revistas especializadas.
 
-Also I'm assitant professor in the National Technological University Regional Faculty Mendoza in Technical Thermodynamics.
+## Experiencia y Antecedentes
+
+- He participado en 5 proyectos de I+D en el Grupo Cliope, centrados en energía solar fotovoltaica y el concepto de Ciclo de Vida. He realizado transferencias de conocimiento y divulgación a través de charlas y he logrado publicaciones en diversas áreas.
+- También he trabajado en proyectos de I+D en el Grupo Lama, centrándome en la dinámica de fluidos y su modelado numérico mediante herramientas de Dinámica de Fluidos Computacional. Participé en una publicación internacional sobre la interacción entre el rotor y el estator de una bomba centrífuga.
+- Actualmente, soy ayudante de cátedra en la materia Termodinámica Técnica y en Fuentes Renovables de Energía y Desarrollo Sustentable del tercer y quinto año, respectivamente, de Ingeniería Electromecánica en la Universidad Tecnológica Nacional Facultad Regional Mendoza.
+
+## Formación Académica
+
+- Ingeniero Electromecánico, Universidad Tecnológica Nacional Facultad Regional Mendoza.
+- Actualmente, cursando el Doctorado en Ingeniería Civil-Ambiental en la misma institución, con un enfoque en Automatización Inteligente de Edificios.
+
+## Proyectos Destacados
+
+- Supervisión de Parámetros Operativos en Instalaciones Solares Fotovoltaicas.
+- Generación Distribuida y Redes Inteligentes.
+- Interconexión de Sistemas Fotovoltaicos a la Red Eléctrica en Ambientes Urbanos.
+- Comportamiento de Turbinas que Trabajan en Condiciones Fuera de Diseño.
+- Red Inteligente Ciudad General San Martín.
+- Desarrollo de un Módulo Habitacional Sustentable de Emergencia.
+
+## Director de Proyecto
+
+Actualmente, desempeño el rol de director en un proyecto de investigación y desarrollo titulado "Modelo de Gestión Energética de Viviendas con Deep Reinforcement Learning", el cual está alineado con mi tesis doctoral.
+
+## Idiomas
+
+- Alemán: Nivel intermedio-básico.
+- Inglés: Nivel intermedio-avanzado.
+
+¡Gracias por visitar mi página web! Si deseas obtener más información o colaborar en algún proyecto, no dudes en contactarme.
