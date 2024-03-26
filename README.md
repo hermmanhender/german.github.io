@@ -1,34 +1,31 @@
-# Sobre mí
+# About me
 
-¡Hola! Soy Germán Henderson, un profesional con experiencia en Ciencia y Tecnología (CyT) especializado en desarrollo sustentable del hábitat humano. Mi enfoque principal ha sido el desarrollo de proyectos de I+D en el Grupo Cliope, abordando diversas temáticas y aplicando metodologías especializadas. También me he destacado en la divulgación científica a través de charlas en ferias, congresos y exposiciones, así como en la publicación de investigaciones en revistas especializadas.
+Electromechanical Engineer with a solid background in Sustainable Development 
+of Human Habitat and a passion for innovation in the field of intelligent 
+building automation, renewable energy and energy efficiency. Currently, I am 
+immersed in the doctoral phase, actively collaborating with the Cliope Group 
+and Dahrma on cutting-edge projects that seek to revolutionize the way we 
+interact with the built environment and energy resources.
 
-## Experiencia y Antecedentes
+Throughout my career, I have accumulated extensive experience in integrating 
+technologies to optimize the performance of buildings, reduce their 
+environmental footprint and improve the quality of life of their occupants. 
+My research focuses on the development of innovative solutions that merge 
+intelligent automation with renewable energy sources, paving the way 
+towards a more sustainable and efficient future.
 
-- He participado en 5 proyectos de I+D en el Grupo Cliope, centrados en energía solar fotovoltaica y el concepto de Ciclo de Vida. He realizado transferencias de conocimiento y divulgación a través de charlas y he logrado publicaciones en diversas áreas.
-- También he trabajado en proyectos de I+D en el Grupo Lama, centrándome en la dinámica de fluidos y su modelado numérico mediante herramientas de Dinámica de Fluidos Computacional. Participé en una publicación internacional sobre la interacción entre el rotor y el estator de una bomba centrífuga.
-- Actualmente, soy ayudante de cátedra en la materia Termodinámica Técnica y en Fuentes Renovables de Energía y Desarrollo Sustentable del tercer y quinto año, respectivamente, de Ingeniería Electromecánica en la Universidad Tecnológica Nacional Facultad Regional Mendoza.
+My commitment to excellence has led me to collaborate on various 
+multidisciplinary projects and publish my results at academic meetings 
+or in specialized journals. I am excited to contribute to the advancement 
+of the industry, whether through research, consulting or creating practical 
+and sustainable solutions.
 
-## Formación Académica
+My vision is to drive the adoption of more sustainable practices in building 
+design and management, and work closely with teams passionate about 
+sustainability and energy efficiency. I am always open to new opportunities 
+and connections that share this vision and that allow us to build a greener 
+and more livable world.
 
-- Ingeniero Electromecánico, Universidad Tecnológica Nacional Facultad Regional Mendoza.
-- Actualmente, cursando el Doctorado en Ingeniería Civil-Ambiental en la misma institución, con un enfoque en Automatización Inteligente de Edificios.
-
-## Proyectos Destacados
-
-- Supervisión de Parámetros Operativos en Instalaciones Solares Fotovoltaicas.
-- Generación Distribuida y Redes Inteligentes.
-- Interconexión de Sistemas Fotovoltaicos a la Red Eléctrica en Ambientes Urbanos.
-- Comportamiento de Turbinas que Trabajan en Condiciones Fuera de Diseño.
-- Red Inteligente Ciudad General San Martín.
-- Desarrollo de un Módulo Habitacional Sustentable de Emergencia.
-
-## Director de Proyecto
-
-Actualmente, desempeño el rol de director en un proyecto de investigación y desarrollo titulado "Modelo de Gestión Energética de Viviendas con Deep Reinforcement Learning", el cual está alineado con mi tesis doctoral.
-
-## Idiomas
-
-- Alemán: Nivel intermedio-básico.
-- Inglés: Nivel intermedio-avanzado.
-
-¡Gracias por visitar mi página web! Si deseas obtener más información o colaborar en algún proyecto, no dudes en contactarme.
+Feel free to contact me for collaborations, research opportunities, or just 
+to connect and share ideas! Together, we can make a significant difference 
+in the way we live and work in harmony with our environment.
